@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+    
+.btn-danger{
+    background-color: green;
+}
+
+canvas{
+
+    animation-name: sid;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes sid {
+from{box-shadow:1px 1px 35px red;}
+to{box-shadow: 1px 1px 35px darkred;}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
